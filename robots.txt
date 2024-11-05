@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqewiuyi.github.io/AMC/sitemap_index.txt
+Sitemap: https://oqewiuyi.github.io/MXr/sitemap_index.txt
+Sitemap: https://oqewiuyi.github.io/ZrH/sitemap_index.txt
+Sitemap: https://oqewiuyi.github.io/yMK/sitemap_index.txt
